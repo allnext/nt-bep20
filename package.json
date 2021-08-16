@@ -1,0 +1,27 @@
+{
+  "name": "nortbep20token",
+  "version": "1.0.0",
+  "description": "Nort Token BEP20 token for bsc",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "keywords": [
+    "Nort",
+    "Ethereum",
+    "binance smart chain",
+    "bnb",
+    "bep20",
+    "solidity"
+  ],
+  "author": "nort technology",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.0",
+    "ethereum-waffle": "^3.2.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.0.11"
+  }
+}
